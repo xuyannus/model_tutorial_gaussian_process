@@ -1,1 +1,4 @@
-# model_tutorial_gaussian_process
+# gaussian_process
+
+1) Sklearn
+2) GPyTorch
